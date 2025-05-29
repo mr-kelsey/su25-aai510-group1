@@ -11,8 +11,8 @@ You should add an instruction how this project is to be used, installed, run, ed
 Determine business case and create project around it
 
 #### Partner(s)/Contributor(s)
-* Dean Simmer
-* Dean_Simmer's_Github_Account
+* Dean P. Simmer
+* [https://github.com/mojodean](https://github.com/mojodean)
 * Gaius Thomas
 * [https://github.com/jeffiThomas](https://github.com/jeffiThomas)
 * Johnathan Kelsey
