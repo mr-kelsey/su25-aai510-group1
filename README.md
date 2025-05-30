@@ -13,7 +13,7 @@ Determine business case and create project around it
 #### Partner(s)/Contributor(s)
 * Dean P. Simmer
 * [https://github.com/mojodean](https://github.com/mojodean)
-* Gaius Thomas
+* Gaius J. Thomas
 * [https://github.com/jeffiThomas](https://github.com/jeffiThomas)
 * Johnathan Kelsey
 * [https://github.com/mr-kelsey](https://github.com/mr-kelsey)
